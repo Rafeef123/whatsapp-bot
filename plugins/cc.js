@@ -34,7 +34,7 @@ Asena.addCommand(
         // ADDED /* TO REMOVE LINK PREVIEW TYPE
         options.linkPreview = {
                 head: "ҒϴᎡᏔᎪᎡᎠ ᏴᎽ",
-                body: "❝〢RAFEE.EFX〣❞",
+                body: "❝〢𝙍𝘼𝙁𝙀𝙀.𝙀𝙁𝙓〣❞",
                 thumbnail: buff2.buffer,
                 }
          // ADDED */ TO REMOVE LINK PREVIEW TYPE
@@ -47,7 +47,7 @@ Asena.addCommand(
             message: {
                 "imageMessage": {
                     "jpegThumbnail": buff1.buffer,
-                    "caption": "RAFEE.EFX"
+                    "caption": "𝙍𝘼𝙁𝙀𝙀.𝙀𝙁𝙓"
                 }
             }
         }
